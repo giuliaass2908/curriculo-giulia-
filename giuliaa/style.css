@@ -1,0 +1,78 @@
+#foto{
+    width: 121px;
+    height: 100px;
+    border-radius: 30%;
+    margin-left: 7%;
+    display: flex;
+}
+.cabecalho{ 
+     border-color: rgb(0, 165, 165);
+     border-width: 6px;
+     border-style:ridge;
+     width: 50%;
+     display: flex;
+     text-align: center;
+
+}
+.info{
+    
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-size: 10px;
+    letter-spacing: 5px;
+    line-height: 3em;
+    text-align: center;
+}   
+
+#nome{
+    letter-spacing: 6px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.sobre{
+    border-color: aqua;
+    border-width: 6px;
+    border-style: ridge;
+    width: 50%;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    letter-spacing: 1px;
+    line-height: 2em;
+    margin-bottom: 4%;
+    margin-left: 4%;
+    margin-right: 4%;
+    text-align: center;
+}
+
+.formacao{
+    border-color: aqua;
+    border-width: 6px;
+    border-style: ridge;
+    width: 50%;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    letter-spacing: 1px;
+    line-height: 2em;
+    margin-bottom: 4%;
+    margin-left: 4%;
+    margin-right: 4%;
+    text-align: center;
+}
+
+.Objetivo{
+    border-color: aqua;
+    border-width: 6px;
+    border-style: ridge;
+    width: 50%;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    letter-spacing: 1px;
+    line-height: 2em;
+    margin-bottom: 4%;
+    margin-left: 4%;
+    margin-right: 4%;
+    text-align: center;
+}
